@@ -44,6 +44,7 @@
 				742B85B32487F1D40062EBF5 /* Products */,
 			);
 			sourceTree = "<group>";
+			usesTabs = 0;
 		};
 		742B85B32487F1D40062EBF5 /* Products */ = {
 			isa = PBXGroup;
